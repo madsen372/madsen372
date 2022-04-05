@@ -1,4 +1,4 @@
-👋 Hi, I’m Mads Nielsen. Im a computer scientist, who is passionate about programming.
+👋 Hi, I’m Mads Nielsen. Im a computer scientist who is passionate about programming.
 My goal is to be the best programmer I can be, I am always learning, and improving my skills.
 
 You can reach me here! 
